@@ -1,2 +1,7 @@
-# demo-empresa-constructora-braun
-Demo web para Empresa Constructora Braun — diseñada por eterlab.
+# Empresa Constructora Braun
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
